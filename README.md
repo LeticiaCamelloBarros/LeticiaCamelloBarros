@@ -1,7 +1,5 @@
-# guia básico sobre mim :  
 
-<!--
-LeticiaCamelloBarros/LeticiaCamelloBarros is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#guia básico sobre mim :  
 
 +estudante de CC ( ciencia da computação ) na cesar school
 
