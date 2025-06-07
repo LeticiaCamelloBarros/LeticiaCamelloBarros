@@ -5,6 +5,6 @@
 
 --> estudante de CC ( ciencia da computação ) na cesar school 
 atualmente estudando as seguintes linguagens : Java script e python 
-- 
+ 
 aprendendo o básico de front end - CSS e HTML 
 -
