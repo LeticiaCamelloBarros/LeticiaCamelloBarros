@@ -9,4 +9,4 @@
 
 + nascida no dia 19 de janeiro de 2007
 
-+atualmente no primeiro período da minha formação academica
++ atualmente no primeiro período da minha formação academica
