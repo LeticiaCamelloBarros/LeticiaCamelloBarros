@@ -5,10 +5,12 @@
 
 + atualmente estudando as seguintes linguagens : Java script e python 
  
-+ aprendendo o básico de front end - CSS e HTML 
++ aprendendo o básico de front end - CSS e HTML
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LeticiaCamelloBarros&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LeticiaCamelloBarros&show_icons=true&theme=default#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
+![L](https://github-readme-stats.vercel.app/api?username=LeticiaCamelloBarros&theme=radical)
+![LeticiaCamelloBarros](https://github-readme-stats.vercel.app/api?username=LeticiaCamelloBarros&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs)
+
 
 
 
