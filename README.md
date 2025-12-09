@@ -7,7 +7,9 @@
  
 + aprendendo o básico de front end - CSS , HTML e java script 
 
-+ gosto de fazer códigos pensando no usuário 
++ gosto de fazer códigos pensando no usuário
+
++ se não dá para personalizar , não é bom 
 
 
 
