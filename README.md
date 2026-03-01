@@ -1,15 +1,14 @@
 
-# guia básico sobre mim :camel::  
+# guia básico sobre mim (basic guide about me ) :camel:: 
 
-+ nascida no dia 19 de janeiro de 2007
 
-+ atualmente estudando as seguintes linguagens : c  e python 
++ nascida no dia 19 de janeiro de 2007 (born at january 19 of 2007)
+
++ atualmente estudando as seguintes linguagens : c  , python , javascript e java ( nowday learning those languages : c , python , javascript and java )
  
-+ aprendendo o básico de front end - CSS , HTML e java script 
++ gosto de fazer códigos pensando no usuário ( i like to code based on the users perspective ) 
 
-+ gosto de fazer códigos pensando no usuário
-
-+ se não dá para personalizar , não é bom 
++ email de contato (contact email ) : lsncb@cesar.school
 
 
 
