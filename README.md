@@ -6,7 +6,6 @@
 
 + atualmente estudando as seguintes linguagens : c  , python , javascript e java ( nowday learning those languages : c , python , javascript and java )
  
-+ gosto de fazer códigos pensando no usuário ( i like to code based on the users perspective ) 
 
 + email de contato (contact email ) : lsncb@cesar.school
 
